@@ -38,7 +38,9 @@ Diferentes fontes, como, por exemplo, arquivos CSV, banco de dados, entre outros
 df.groupby([df.data.dt.year,df.data.dt.month]).valor.sum()
 
 ### O seguinte trecho de código utiliza um filtro na coluna "ocorrencia_cidade" do dataframe "df". Para este filtro, é correto afirmar que:
-```filtro = df.ocorrencia_cidade.str[-1] == 'E'
-df.loc[filtro]```
+```
+filtro = df.ocorrencia_cidade.str[-1] == 'E'
+df.loc[filtro]
+```
 
 Seleciona dados cuja cidade termina com a letra E
