@@ -10,7 +10,7 @@
 - Pandas
 
 ## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações
 
 ## Executar o projeto
 Abra o projeto no Jupyter Notebook e execute o projeto
