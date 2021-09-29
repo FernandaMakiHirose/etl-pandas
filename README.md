@@ -4,7 +4,7 @@
 - Load: Carregados no data warehouse
 
 ## Requisitos
-- Anaconda
+- [Anaconda](https://www.anaconda.com/products/individual)
 - Jupyter Notebook e conhecimento na ferramenta
 - Python
 - Pandas
